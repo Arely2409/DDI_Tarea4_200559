@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="confirmation_overlay_image_size">72dp</dimen>
+    <item name="confirmation_overlay_margin_above_text" type="fraction">4.167%</item>
+    <item name="confirmation_overlay_margin_side" type="fraction">18.75%</item>
+    <string name="hello_world"/>
+    <style name="AppNameStyle" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

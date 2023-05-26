@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/drawable_pai.jpg.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/drawable/pai.jpg"
+    },
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/layout_fragment_layout_screen2.xml.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/layout/fragment_layout_screen2.xml"
+    },
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/layout_fragment_layout_screen3.xml.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/layout/fragment_layout_screen3.xml"
+    },
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/layout_activity_main.xml.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/layout/activity_main.xml"
+    },
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/drawable-round_tile_preview.png.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/drawable-round/tile_preview.png"
+    },
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/drawable_paisaje1.jpg.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/drawable/paisaje1.jpg"
+    },
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/drawable_tile_preview.png.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/drawable/tile_preview.png"
+    },
+    {
+        "merged": "edu.mx.dsm.ti.ddi.practica4_200559.app-merged_res-73:/layout_fragment_layout_screeen1.xml.flat",
+        "source": "edu.mx.dsm.ti.ddi.practica4_200559.app-main-75:/layout/fragment_layout_screeen1.xml"
+    }
+]

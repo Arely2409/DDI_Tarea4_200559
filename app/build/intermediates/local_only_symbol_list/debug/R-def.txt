@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+drawable pai
+drawable paisaje1
+drawable tile_preview
+id imageView
+id view_pager
+layout activity_main
+layout fragment_layout_screeen1
+layout fragment_layout_screen2
+layout fragment_layout_screen3
+mipmap ic_launcher
+string app_name
+string complication_label
+string hello_blank_fragment
+string hello_world
+string tile_label
+string title_activity_main
+string title_activity_presentation._main
+style AppNameStyle
+style AppTheme

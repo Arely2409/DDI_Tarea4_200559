@@ -1,0 +1,80 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PC-11\\.gradle\\daemon\\8.0\\edu.mx.dsm.ti.ddi.practica4_200559.app-mergeDebugResources-71:\\values-round-v23\\values-round-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC-11\\.gradle\\caches\\transforms-3\\91ce3378d77ad7213920fdb300d2f3c3\\transformed\\wear-1.2.0\\res\\values-round-v23\\values-round-v23.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,118,204",
+                        "endColumns": "62,85,79",
+                        "endOffsets": "113,199,279"
+                    }
+                },
+                {
+                    "source": "E:\\Practica4_200559\\app\\src\\main\\res\\values-round\\strings.xml",
+                    "from": {
+                        "startLines": "1,-1,-1",
+                        "startColumns": "4,-1,-1",
+                        "startOffsets": "16,-1,-1",
+                        "endColumns": "50,-1,-1",
+                        "endOffsets": "62,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "284,335,590",
+                        "endLines": "5,10,14",
+                        "endColumns": "50,12,12",
+                        "endOffsets": "330,585,784"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "edu.mx.dsm.ti.ddi.practica4_200559.app-mergeDebugResources-71:/values-round-v23/values-round-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC-11\\.gradle\\caches\\transforms-3\\91ce3378d77ad7213920fdb300d2f3c3\\transformed\\wear-1.2.0\\res\\values-round-v23\\values-round-v23.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,118,204",
+                        "endColumns": "62,85,79",
+                        "endOffsets": "113,199,279"
+                    }
+                },
+                {
+                    "source": "E:\\Practica4_200559\\app\\src\\main\\res\\values-round\\strings.xml",
+                    "from": {
+                        "startLines": "1,-1,-1",
+                        "startColumns": "4,-1,-1",
+                        "startOffsets": "16,-1,-1",
+                        "endColumns": "40,-1,-1",
+                        "endOffsets": "52,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "284,317,572",
+                        "endLines": "5,10,14",
+                        "endColumns": "32,12,12",
+                        "endOffsets": "312,567,766"
+                    }
+                }
+            ]
+        }
+    ]
+}
