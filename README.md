@@ -7,5 +7,6 @@
   <h1 align="center">UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ</h1>
   <h2 align="center">ARELY AGUILAR FARIAS M-200559</h2>
   <h3 align="center">Implementación de una interfaz de usuario con interaccion de pantallas para WearOs</h3>
+  <h5 align="center">Se creó una aplicación para WearOs en la cual el usuario tiene interacción con las pantallas</h5>
   <h3 align="center">Fecha de entrega: 26/Mayo/2023</h3>
 </P>
